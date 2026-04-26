@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 resume-cli-py
+# 📄 resume-cli-py 
 
 **Generate a clean, professional resume straight from your terminal — no UI, no fluff.**
 
